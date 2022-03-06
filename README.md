@@ -1,6 +1,5 @@
 # -Links_to_my_work
  Ссылки на мои работы
- style a {textdecarations:none}
  <br>
  <a href="https://metla07.github.io/seal.githab.io/">Seal<a>
  <br>
